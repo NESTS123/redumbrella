@@ -1,5 +1,10 @@
 hello world
 java
+c++
+python
+ruby
+ada
+javascript
 php
 ooooooooooooooooooooooooooooooooooooo
 hao are you ,
